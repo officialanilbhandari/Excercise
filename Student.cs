@@ -24,7 +24,7 @@ namespace Assignment
         // Method to introduce the student
         public void Introduce()
         {
-            Console.WriteLine($"Hello, I'm {name}, {age} years old, and my major is {major}.");
+            Console.WriteLine($"Hello, I am {name}, {age} years old, and my major is {major}.");
         }
     }
 }
